@@ -1,0 +1,847 @@
+The Juggler (Piano) from Paper Mario: Color Splash [Shortened]
+Takeru Kanazaki, Shigemitsu Goto, Fumihiro Isobe
+Radiak488417 (with slight modifications by nparsly)
+212
+Swing
+SHARP -
+
+start
+en G4 %
+%
+en #F4 %
+%
+
+en G4 %
+%
+en C5 %
+%
+
+hr %
+%
+%
+%
+
+%
+%
+%
+%
+
+en bG4 %
+%
+en F4 %
+%
+
+en G4 %
+%
+en C5 %
+%
+
+hr %
+%
+%
+%
+
+%
+%
+%
+%
+
+continue
+
+cqn C4 E3 %
+%
+%
+%
+
+qr %
+%
+%
+%
+
+er %
+%
+cqn .C4 .E3 %
+%
+
+%
+%
+%
+%
+
+cqn C4 bE3 %
+%
+%
+%
+
+qr %
+%
+%
+%
+
+er %
+%
+cqn .C4 bE3 %
+%
+
+%
+%
+%
+%
+
+start
+
+en F4 %
+%
+en E4 %
+%
+
+en F4 %
+%
+cen A4 C5 %
+%
+
+er %
+%
+cqn .F4 .A4 .D5 %
+%
+
+%
+%
+%
+%
+
+cqn E5 D5 F4 %
+%
+%
+%
+
+qr %
+%
+%
+%
+
+chn bE4 B3 %
+%
+%
+%
+
+%
+%
+%
+%
+
+continue
+
+cqn C4 D3 %
+%
+%
+%
+
+qr %
+%
+%
+%
+
+er %
+%
+cqn .C4 .D3 %
+%
+
+%
+%
+%
+%
+
+qn G3 %
+%
+%
+%
+
+qr %
+%
+%
+%
+
+chn bD3 F3 %
+%
+%
+%
+
+%
+%
+%
+%
+
+start
+
+er %
+%
+en #D5 %
+%
+
+cqn E5 C5 G4 %
+%
+%
+%
+
+qn C5 %
+%
+%
+%
+
+qn G4 %
+%
+%
+%
+
+en #F4 %
+%
+en G4 %
+%
+
+er %
+%
+en C5 %
+%
+
+er %
+%
+qn .D5 %
+%
+
+%
+%
+%
+%
+
+continue
+
+qn C3 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C2 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C3 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C2 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+start
+
+chn #F4 A4 B4 E5 %
+%
+%
+%
+
+%
+%
+%
+%
+
+cqn F4 bB4 bE5 %
+%
+%
+%
+
+cqn F4 A4 D5 %
+%
+%
+%
+
+cen F4 A4 D5 %
+%
+cqn .A4 .D5 %
+%
+
+%
+%
+%
+%
+
+hr %
+%
+%
+%
+
+%
+%
+%
+%
+
+continue
+
+qn D3 %
+%
+%
+%
+
+cqn #F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn D3 %
+%
+%
+%
+
+cqn #F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+start
+
+er %
+%
+cen E5 A4 F4 %
+%
+
+qn D5 %
+%
+%
+%
+
+qn A4 %
+%
+%
+%
+
+qn F4 %
+%
+%
+%
+
+cqn E5 B4 F4 %
+%
+%
+%
+
+cqn D5 %
+%
+%
+%
+
+en B4 %
+%
+en A4 %
+%
+
+er %
+%
+cen G4 D4 %
+%
+
+continue
+
+qn D3 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn G2 %
+%
+%
+%
+
+cqn G3 B3 %
+%
+%
+%
+
+qn F2 %
+%
+%
+%
+
+cqn F3 B3 %
+%
+%
+%
+
+start
+
+wn G4 qn D4 %
+%
+%
+%
+
+qn D4 %
+%
+%
+%
+
+qn bD4 % 
+%
+%
+%
+
+qn D4 %
+%
+%
+%
+
+qn C4 %
+%
+%
+%
+
+en C4 %
+%
+en B3 %
+%
+
+er %
+%
+qn .B3 %
+%
+
+%
+%
+%
+%
+
+continue 
+
+qn E3 %
+%
+%
+%
+
+qn E2 %
+%
+%
+%
+
+qn bE3 %
+%
+%
+%
+
+qn bE2 %
+%
+%
+%
+
+qn D3 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+qn bD3 %
+%
+%
+%
+
+qn bD2 %
+%
+%
+%
+
+
+start
+
+er %
+%
+en #D5 %
+%
+
+cqn E5 C5 G4 %
+%
+%
+%
+
+qn C5 %
+%
+%
+%
+
+qn G4 %
+%
+%
+%
+
+en #F4 %
+%
+en G4 %
+%
+
+er %
+%
+en C5 %
+%
+
+er %
+%
+qn .D5 %
+%
+
+%
+%
+%
+%
+
+continue
+
+qn C3 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C2 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C3 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+qn C2 %
+%
+%
+%
+
+cqn G3 C4 %
+%
+%
+%
+
+start
+
+chn #F4 A4 B4 E5 %
+%
+%
+%
+
+%
+%
+%
+%
+
+cqn F4 bB4 bE5 %
+%
+%
+%
+
+cqn F4 A4 D5 %
+%
+%
+%
+
+cen F4 A4 D5 %
+%
+cqn .A4 .D5 %
+%
+
+%
+%
+%
+%
+
+hr %
+%
+%
+%
+
+%
+%
+%
+%
+
+continue
+
+qn D3 %
+%
+%
+%
+
+cqn #F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn D3 %
+%
+%
+%
+
+cqn #F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+start
+
+er %
+%
+cen E5 A4 F4 %
+%
+
+qn D5 %
+%
+%
+%
+
+qn A4 %
+%
+%
+%
+
+qn F4 %
+%
+%
+%
+
+cqn E5 B4 F4 %
+%
+%
+%
+
+qn D5 %
+%
+%
+%
+
+en A4 %
+%
+en B4 %
+%
+
+er %
+%
+en C5 %
+%
+
+continue
+
+qn D3 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn D2 %
+%
+%
+%
+
+cqn F3 C4 %
+%
+%
+%
+
+qn G2 %
+%
+%
+%
+
+cqn F3 B3 %
+%
+%
+%
+
+qn G2 %
+%
+%
+%
+
+cqn F3 B3 %
+%
+%
+%
+
+start
+
+en C5 %
+%
+en A4 %
+%
+
+qn A4 %
+%
+%
+%
+
+qn G4 % 
+%
+%
+%
+
+qn F4 %
+%
+%
+%
+
+qn E4 %
+%
+%
+%
+
+er %
+%
+cen #A3 #C4 E4 %
+%
+
+chn #A3 #C4 E4 %
+%
+%
+%
+
+%
+%
+%
+%
+
+stop 
+
+en C3 %
+%
+en F3 %
+%
+
+qn F3 %
+%
+%
+%
+
+qn E3 %
+%
+%
+%
+
+qn D3 %
+%
+%
+%
+
+en C3 %
+%
+en G2 %
+%
+
+en C2 %
+%
+en #F2 %
+%
+
+hn #F2 %
+%
+%
+%
+
+%
+%
+%
+%
+
