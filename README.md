@@ -25,19 +25,19 @@ The two fancy looking shapes on the staff (the 5 horizontal lines) are the clefs
 ```
 This next part is important even if you do know what notes are.
 ```
-Notes in music are represented by the letters "ABCDEFG", where A is the lowest of these, and G is the highest. Notes go in order up and down the staff, centered around "Middle C". The note names repeat after all are exhausted, so if you play A-B-C-D-E-F-G-, then the next note will be A again. We'll call this second A, A'. The set of A-A' is called an octave. An octave is the set of eight notes contained between a specific note, and the closest note of the same name. Octaves can be number to indicate their pitch. A higher number indicates a higher pitched octave. Note names and octave can be combined in what is called Scientific Pitch Notation to specificy any note of any pitch. 
+Notes in music are represented by the letters "ABCDEFG", where A is the lowest of these, and G is the highest. Notes go in order up and down the staff, centered around "Middle C". The note names repeat after all are exhausted, so if you play A-B-C-D-E-F-G-, then the next note will be A again. We'll call this second A, A'. The set of A-A' is called an octave. An octave is the set of eight notes contained between a specific note, and the closest note of the same name. Octaves can be numbered to indicate their pitch. A higher number indicates a higher pitched octave. Note names and octave can be combined in what is called Scientific Pitch Notation to specificy any note of any pitch. 
 
 ![3](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Scientific_pitch_notation_octaves_of_C.png/450px-Scientific_pitch_notation_octaves_of_C.png)
 
 This notation is also centered around Middle C. C4 is Middle C. The C above Middle C is C5. The C below Middle C is C3. The A pitch used for tuning instruments, A above Middle C, is A4. nmusic uses this notation to know where to place notes on the staff, so if you are unfamiliar with it, learn how it works. One last really basic thing I should explain is what chords are. Chords are when notes are placed on the same beat on the same staff. This should be enough for you to understand the formatting for nmusic.
 
 # Using nmusic
-nmusic is fairily simple. Just run `./nmusic <input_file> <output_file>.jgr`
-I will note that it does not automatically run jgraph for you. It merely creates the file for jgraph to read. 
+nmusic is fairly simple. Just run `./nmusic <input_file> <output_file>.jgr`
+Note that it does not automatically run jgraph for you. It merely creates the file for jgraph to read. 
 `When run through jgraph, the .jgr file should produce lines of two measures each, with both a bass and treble clef.`
 
 # Creating files for nmusic
-Admittedly, the file formatting needed for nmusic is kind of tedious. I feel it absolutely necessary to say that it is very rigid, and you should not put anything that does not need to be there in it. Also, don't forget your delimiters.
+Admittedly, the file formatting needed for nmusic is kind of tedious. It is very rigid, and you should not put anything that does not need to be there in it. Also, don't forget your delimiters.
 
 ## Before actually getting into inputting notes
 The file you give nmusic must have a title, composer, arranger, tempo, style, and keys signature. They should be in this format:
