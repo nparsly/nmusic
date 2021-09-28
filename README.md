@@ -37,7 +37,7 @@ Note that it does not automatically run jgraph for you. It merely creates the fi
 `When run through jgraph, the .jgr file should produce lines of two measures each, with both a bass and treble clef.`
 
 ## musicmake
-musicmake.sh is a simple shell program I made to streamline going straight from nmusic to jgraph. It runs with ```sh musicmake.sh <file name> <output name>``` Note the difference between the input and output. 
+musicmake.sh is a simple shell program I made to streamline going straight from nmusic to jgraph. It runs with ```sh musicmake.sh <input_file> <output_name>``` Note the difference between the input and output. 
 ```
 The input field expects a file with a filetype. The output field only expects a name, no filetype.
 ```
