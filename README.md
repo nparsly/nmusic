@@ -36,6 +36,14 @@ nmusic is fairly simple. Just run `./nmusic <input_file> <output_file>.jgr`
 Note that it does not automatically run jgraph for you. It merely creates the file for jgraph to read. 
 `When run through jgraph, the .jgr file should produce lines of two measures each, with both a bass and treble clef.`
 
+## musicmake
+musicmake.sh is a simple shell program I made to streamline going straight from nmusic to jgraph. It runs with ```sh musicmake.sh <file name> <output name>``` Note the difference between the input and output. 
+```
+The input field expects a file with a filetype. The output field only expects a name, no filetype.
+```
+
+It always outputs a .jpg file, so if you want .pdfs, you will have to create them manually. Example Usage: ```sh musicmake.sh juggler.txt juggler```
+
 # Creating files for nmusic
 Admittedly, the file formatting needed for nmusic is kind of tedious. It is very rigid, and you should not put anything that does not need to be there in it. Also, don't forget your delimiters.
 
